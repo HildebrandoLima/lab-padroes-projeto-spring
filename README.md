@@ -7,7 +7,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 
 ## Como Iniciar o Projeto
 
-- Clone o projeto: `aa`;
+- Clone o projeto: `git@github.com:HildebrandoLima/lab-padroes-projeto-spring.git`;
 - Abra a IDE de sua escolha;
 - Execute;
 - [Acesse o link](http://127.0.1.1:8080/swagger-ui/index.html).
